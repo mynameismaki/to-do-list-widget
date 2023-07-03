@@ -1,4 +1,4 @@
-![image](https://github.com/mynameismaki/to-do-list-widget/assets/138430122/807b536e-a55c-4961-b047-388cafb6a4fe)# to-do-list-widget
+# to-do-list-widget
 A project for a small game in the form of an exe file for desktops that allows users to add, view, remove and clear tasks.
 
 Outputs:
